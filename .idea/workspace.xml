@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8493b1ee-ab2a-4cf8-ad1c-a79ac1256d0c" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/loops/BandMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/BandMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/GeneralizedHarmonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/GeneralizedHarmonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/RandomWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/RandomWalker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/RandomWalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/RandomWalkers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lesson2/Kary.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fWcRE8zxVe92pMohVVwSN9tOYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s-nagashima.DENSAN/Documents/MyProject/java/Princeton-University-Java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="8493b1ee-ab2a-4cf8-ad1c-a79ac1256d0c" name="変更" comment="" />
+      <created>1713920263887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713920263887</updated>
+    </task>
+    <servers />
+  </component>
+</project>
